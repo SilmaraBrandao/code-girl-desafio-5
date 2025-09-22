@@ -6,7 +6,7 @@ Ultilizar o desafio para absover todo o conteúdo ensinado.
 
 ## Amazon S3
 
-É um serviço de armazenamento em nuvem da AWS que permit escalável. Ele suporta qualquer tipo de arquivo (video,áudio,imagens,documentos, etc) e é ideal para backup e armazenamento de objeto.
+É um serviço de armazenamento em nuvem da AWS que permite escalável. Ele suporta qualquer tipo de arquivo (video,áudio,imagens,documentos, etc) e é ideal para backup e armazenamento de objeto.
 
 ## Vantagens do S3 :
 
@@ -14,9 +14,9 @@ Ultilizar o desafio para absover todo o conteúdo ensinado.
 
 - Dispinibilidades: Garante acesso contínuo aos dados.
 
-- Escalabilidade: Ajusta automaticamente a capacidade de armazenamente conforme a necessidade.
+- Escalabilidade: Ajusta automaticamente a capacidade de armazenamento conforme a necessidade.
 
-- Segurança: Oferece criptografia, controlhe de acesso e monitoramento de atividades.
+- Segurança: Oferece criptografia, controle de acesso e monitoramento de atividades.
 
 ## Aws Lambada 
 
